@@ -1,0 +1,39 @@
+# MarkBrian Kariuki
+
+[![GitHub followers](https://img.shields.io/github/followers/MarkBrianK?label=Follow&style=social)](https://github.com/MarkBrianK)
+
+Welcome to my GitHub profile! I'm a 22-year-old computer science graduate with a passion for programming and technology. I enjoy working on a variety of projects and learning new technologies.
+
+## About Me
+
+- 👩‍💻 I'm a Full-Stack Developer.
+- 🌱 I'm constantly learning and improving my skills in JavaScript, Python, and Ruby.
+- 💬 Feel free to reach out to me for collaboration or just to have a chat!
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+- [Levick 23](https://levick.africa/): Successfully developed Levick 23, an online clothing store utilizing React JS for an interactive and dynamic user interface, Ruby on Rails for efficient backend processing, and PostgreSQL for secure and organized data management. Personally implemented key features ensuring a seamless shopping experience and integrated secure payment gateways for customer transactions.
+
+You can find more of my projects on my [GitHub profile](https://github.com/MarkBrianK).
+
+## Skills
+
+- Programming languages: JavaScript, Python, Ruby
+- Technologies: React Js, Node Js, HTML, CSS
+- Other skills: Agile, Scrum, Git, Linux Administration, Android Development, Figma
+
+## Contact
+
+- GitHub: [github.com/MarkBrianK](https://github.com/MarkBrianK)
+- LinkedIn: [linkedin.com/in/markbrian-kariuki-b54501227](https://www.linkedin.com/in/markbrian-kariuki-b54501227)
+- Email: kariukimarkbrian@gmail.com
+
+## Fun Facts
+
+- ⚡ Fun fact 1.
+- ⚡ Fun fact 2.
+- ⚡ Fun fact 3.
+
+Thanks for visiting my profile!
