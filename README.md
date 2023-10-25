@@ -30,10 +30,5 @@ You can find more of my projects on my [GitHub profile](https://github.com/MarkB
 - LinkedIn: [linkedin.com/in/markbrian-kariuki-b54501227](https://www.linkedin.com/in/markbrian-kariuki-b54501227)
 - Email: kariukimarkbrian@gmail.com
 
-## Fun Facts
-
-- ⚡ Fun fact 1.
-- ⚡ Fun fact 2.
-- ⚡ Fun fact 3.
 
 Thanks for visiting my profile!
