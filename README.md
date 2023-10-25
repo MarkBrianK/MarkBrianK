@@ -29,10 +29,7 @@ You can find more of my projects on my [GitHub profile](https://github.com/MarkB
 - Other skills:
   - Agile, Scrum, Git, Linux Administration, Android Development, Figma
 
-## GitHub Achievements
 
-- 🌟 [GitHub Stars](https://github.com/MarkBrianK?tab=stars): XX stars
-- 🏆 [GitHub Forks](https://github.com/MarkBrianK?tab=repositories): XX forks
 
 ## Contact
 
