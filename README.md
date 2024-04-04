@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/MarkBrianK?label=Follow&style=social)](https://github.com/MarkBrianK)
 
-Welcome to my GitHub profile! I'm a 22-year-old computer science graduate with a passion for programming and technology. I enjoy working on a variety of projects and learning new technologies.
+Welcome to my GitHub profile! I'm a 23-year-old computer science graduate with a passion for programming and technology. I enjoy working on a variety of projects and learning new technologies.
 
 ## About Me
 
