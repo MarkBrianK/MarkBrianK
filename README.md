@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast passionate about programming
 Here are some of the projects I've worked on:
 
 - [Levick 23](https://levick.africa): Successfully developed Levick 23, an online clothing store utilizing React JS for an interactive and dynamic user interface, Ruby on Rails for efficient backend processing, and PostgreSQL for secure and organized data management. Personally implemented key features ensuring a seamless shopping experience and integrated secure payment gateways for customer transactions.
+- Stock Management System for Soy United: Developed a comprehensive stock management system specifically tailored for Soy United. This app includes features such as real-time stock tracking, sales monitoring, profit calculation, and inventory management, showcasing my full-stack development capabilities.
 
 You can find more of my projects on my [GitHub profile](https://github.com/MarkBrianK).
 
